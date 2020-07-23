@@ -20,5 +20,3 @@ steps:
 
 - script: ls
 - task: WhiteSource Bolt@20
-  inputs:
-    cwd: './'
